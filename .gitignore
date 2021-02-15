@@ -28,6 +28,8 @@ doc/api/
 
 # IntelliJ
 .idea/
+dart_producer/.idea/
+dart_consumer/.idea/
 
 # macos_stuff
 .DS_Store
