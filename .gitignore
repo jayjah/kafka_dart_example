@@ -26,5 +26,8 @@ doc/api/
 
 # End of https://www.toptal.com/developers/gitignore/api/dart
 
+# IntelliJ
+.idea/
+
 # macos_stuff
 .DS_Store
